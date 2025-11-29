@@ -1,0 +1,7 @@
+model\Pessoa.class
+Main.class
+model\Veiculo.class
+model\Funcionario.class
+dao\DAO.class
+model\Cliente.class
+model\Locacao.class
